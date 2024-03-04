@@ -1,3 +1,3 @@
 #
-echo "hold 'a' key then watch hot P toggles, after a while it doesnt anymore"
+echo "hold 'a' key then watch how 'P:'(aka pressed) toggles ono the window log, after a while it doesnt anymore"
 cargo run -p keyboard_events
